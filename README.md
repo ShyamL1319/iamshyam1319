@@ -1,7 +1,8 @@
 # iamshyam1319
 It's My Profile Overview
 # 💫 About Me:
-Hi, I'm Shyam!<br>Objective : Intend to build a career with leading corporate of stimulating environment which will help me to explore myself fully and realize my potential. <br><br>I am working as Software Engineer for the past 2+ year<br>I have worked on LMS learner as well as admin dashboard functionality for UI<br>I have used technology like NodeJs,  Aangular2+, Java Spring, PHP, MySQL, MongoDB <br>for VCS Github and beanstalk, and Jira for Project Management.<br><br>🧑‍🎓I have completed my B-Tech from the National Institute of Technology Uttarakhand in Computer Science and Engineering<br>Contact me on 📧 sshyamlalchauhan@gmail.com<br>👨‍💻My Leetcode Profile Link is https://leetcode.com/Shyam1319/<br>👨‍💻My HackerEarth Profile Link is https://www.hackerearth.com/@chauhanshyam<br>🔗My LinkedIn Profile Link is https://www.linkedin.com/in/shyamlal1319/<br>👨‍💻My Interviewbit Profile Link is https://www.interviewbit.com/profile/shyam-lal-chauhan
+Hi, I'm Shyam!<br>Objective : Intend to build a career with leading corporate of stimulating environment which will help me to explore myself fully and realize my potential. <br><br>I am working as Software Engineer for the past 2+ year<br>I have worked on LMS learner as well as admin dashboard functionality for UI<br>I have used technology like NodeJs,  Aangular2+, Java Spring, PHP, MySQL, MongoDB <br>for VCS Github and beanstalk, and Jira for Project Management.<br><br>🧑‍🎓I have completed my B-Tech from the National Institute of Technology Uttarakhand in Computer Science and Engineering<br>Contact me on 📧 sshyamlalchauhan@gmail.com<br>👨‍💻My Leetcode Profile Link is https://leetcode.com/Shyam1319/<br>👨‍💻My HackerEarth Profile Link is https://www.hackerearth.com/@chauhanshyam<br>🔗My LinkedIn Profile Link is https://www.linkedin.com/in/shyamlal1319/<br>👨‍💻My Interviewbit Profile Link is https://www.interviewbit.com/profile/shyam-lal-chauhan<br>💽Resume Link is https://drive.google.com/drive/search?q=resume
+
 
 
 ## 🌐 Socials:
@@ -14,9 +15,7 @@ Hi, I'm Shyam!<br>Objective : Intend to build a career with leading corporate of
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShyamL1319&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamL1319&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShyamL1319&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
