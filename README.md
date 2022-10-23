@@ -1,7 +1,7 @@
 # iamshyam1319
 It's My Profile Overview
 # 💫 About Me:
-Hi, I'm Shyam!<br>Objective : Intend to build a career with leading corporate of stimulating environment which will help me to explore myself fully and realize my potential. <br><br>I am working as Software Engineer for the past 2+ year<br>I have worked on LMS learner as well as admin dashboard functionality for UI<br>I have used technology like NodeJs,  Aangular2+, Java Spring, PHP, MySQL, MongoDB <br>for VCS Github and beanstalk, and Jira for Project Management.<br><br>I have completed my B-Tech from the National Institute of Technology Uttarakhand in Computer Science and Engineering<br>Contact me on gmail sshyamlalchauhan@gmail.com<br>My Leetcode Profile Link is https://leetcode.com/Shyam1319/<br>My HackerEarth Profile Link is https://www.hackerearth.com/@chauhanshyam<br>My LinkedIn Profile Link is https://www.linkedin.com/in/shyamlal1319/<br>My Interviewbit Profile Link is https://www.interviewbit.com/profile/shyam-lal-chauhan
+Hi, I'm Shyam!<br>Objective : Intend to build a career with leading corporate of stimulating environment which will help me to explore myself fully and realize my potential. <br><br>I am working as Software Engineer for the past 2+ year<br>I have worked on LMS learner as well as admin dashboard functionality for UI<br>I have used technology like NodeJs,  Aangular2+, Java Spring, PHP, MySQL, MongoDB <br>for VCS Github and beanstalk, and Jira for Project Management.<br><br>🧑‍🎓I have completed my B-Tech from the National Institute of Technology Uttarakhand in Computer Science and Engineering<br>Contact me on 📧 sshyamlalchauhan@gmail.com<br>👨‍💻My Leetcode Profile Link is https://leetcode.com/Shyam1319/<br>👨‍💻My HackerEarth Profile Link is https://www.hackerearth.com/@chauhanshyam<br>🔗My LinkedIn Profile Link is https://www.linkedin.com/in/shyamlal1319/<br>👨‍💻My Interviewbit Profile Link is https://www.interviewbit.com/profile/shyam-lal-chauhan
 
 
 ## 🌐 Socials:
@@ -20,8 +20,3 @@ Hi, I'm Shyam!<br>Objective : Intend to build a career with leading corporate of
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=ShyamL1319&icon=0&color=3)](https://visitcount.itsvg.in)
